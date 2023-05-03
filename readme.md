@@ -14,4 +14,4 @@ git branch
 git branch [branch_name]
 git branch -d // удаление ветки
 git checkout [branch_name] // переключиться на ветку 
-git merge
+git merge [branch_name]
